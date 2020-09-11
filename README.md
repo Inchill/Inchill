@@ -15,7 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<article class="article">
+  <p class="left-side"></p>
+  <p class="right-side">
+    <a href="https://github.com/Inchill">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Inchill&count_private=true&show_icons=true&repo=github-readme-stats" />
+    </a>
+  </p>
+</article>
+
+.article {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
 <a href="https://github.com/Inchill">
-  Hi there 👋, welcome to my github site.
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Inchill&count_private=true&show_icons=true&repo=github-readme-stats" />
 </a>
