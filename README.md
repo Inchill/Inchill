@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Inchill/Inchill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<a>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Inchill&count_private=true&show_icons=true)](https://github.com/Inchill)
-</a>
 
-<a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill&layout=compact)](https://github.com/Inchill)
-</a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Inchill&count_private=true&show_icons=true)](https://github.com/Inchill)
