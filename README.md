@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<article class="article">
-  <p class="left-side">
-    <h1>Hi there 👋</h1>
-  </p>
+<article>
   <p class="right-side">
+    <p align="left"><h3>Hi there 👋</h3></p>
     <a href="https://github.com/Inchill">
       <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Inchill&count_private=true&show_icons=true&repo=github-readme-stats" />
     </a>
