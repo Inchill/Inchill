@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Inchill">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill)](https://github.com/Inchill" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill&layout=compact)](https://github.com/Inchill" />
 </a>
