@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My ![Visitor Count](https://profile-counter.glitch.me/Inchill/count.svg) visitor!
 
 <!--
 **Inchill/Inchill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Inchill&count_private=true&show_icons=true&repo=github-readme-stats" />
 </a>
 
-My ![Visitor Count](https://profile-counter.glitch.me/Inchill/count.svg) visitor!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill)](https://github.com/Inchill/github-readme-stats)
