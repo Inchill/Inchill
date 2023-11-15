@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 My ![Visitor Count](https://profile-counter.glitch.me/Inchill/count.svg) visitor!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill)](https://github.com/Christmas/github-readme-stats)
