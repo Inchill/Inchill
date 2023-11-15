@@ -19,6 +19,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Inchill&count_private=true&show_icons=true&repo=github-readme-stats" />
 </a>
 
-<a href="https://github.com/Inchill">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inchill&layout=compact)](https://github.com/Inchill" />
-</a>
+![Visitor Count](https://profile-counter.glitch.me/Inchill/count.svg)
