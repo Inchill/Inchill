@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Inchill&count_private=true&show_icons=true&repo=github-readme-stats" />
 </a>
 
-![Visitor Count](https://profile-counter.glitch.me/Inchill/count.svg)
+My ![Visitor Count](https://profile-counter.glitch.me/Inchill/count.svg) visitors!
