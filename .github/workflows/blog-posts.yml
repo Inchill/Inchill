@@ -1,0 +1,23 @@
+# 每天从博客 RSS 拉最新 5 篇文章，更新 README 里 BLOG-POST-LIST 之间的列表
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 北京时间 09:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.fechuck.com/feed.xml"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
+          committer_username: github-actions
+          committer_email: github-actions@github.com
