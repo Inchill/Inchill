@@ -38,10 +38,3 @@
 ### 🧰 常用技术
 
 [![Tech](https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,vite,html,css,python,git&theme=light)](https://skillicons.dev)
-
-### 📊 贡献
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <img alt="GitHub 贡献 3D 图" src="./profile-3d-contrib/profile-green-animate.svg" />
-</picture>
