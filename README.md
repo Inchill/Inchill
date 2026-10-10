@@ -16,11 +16,11 @@
 ### ✍️ 最近写的文章
 
 <!-- BLOG-POST-LIST:START -->
+- [本地搭 Agent：骨架很薄，护栏才是正文](https://www.fechuck.com/notes/2026-10-10-local-agent.html)
 - [23 kB 的 React 白板组件：压感笔迹和局部橡皮擦是怎么做出来的](https://www.fechuck.com/2026/react-whiteboard.html)
 - [你的 SPA 正在漏内存，用 Soak Test 把它揪出来](https://www.fechuck.com/2026/spa-memory-leak.html)
 - [读懂 Skills：是什么、怎么写、为什么有效](https://www.fechuck.com/2026/skills.html)
 - [MCP：给 AI 装上 USB-C 接口](https://www.fechuck.com/2025/claude-mcp.html)
-- [事件驱动 vs 数据驱动](https://www.fechuck.com/notes/2025-06-13-dev-thoughts.html)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>每天从博客 RSS 自动更新 · [全部文章 →](https://www.fechuck.com)</sub>
