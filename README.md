@@ -16,11 +16,11 @@
 ### ✍️ 最近写的文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 白板 —— 画自身架构图](https://www.fechuck.com/notes/2026-10-16-ai-whiteboard-test.html)
 - [Claude Code 游戏工作室](https://www.fechuck.com/notes/2026-10-15-claude-code-game-studios.html)
 - [搞了个 AI 涂鸦板](https://www.fechuck.com/notes/2026-10-15-react-whiteboard-ai.html)
 - [本地搭 Agent：如何在 LLM 适配层做可靠控制](https://www.fechuck.com/notes/2026-10-10-local-agent.html)
 - [23 kB 的 React 白板组件：压感笔迹和局部橡皮擦是怎么做出来的](https://www.fechuck.com/2026/react-whiteboard.html)
-- [你的 SPA 正在漏内存，用 Soak Test 把它揪出来](https://www.fechuck.com/2026/spa-memory-leak.html)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>每天从博客 RSS 自动更新 · [全部文章 →](https://www.fechuck.com)</sub>
