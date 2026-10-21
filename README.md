@@ -16,11 +16,11 @@
 ### ✍️ 最近写的文章
 
 <!-- BLOG-POST-LIST:START -->
+- [编码不再是瓶颈之后](https://www.fechuck.com/notes/2026-10-20-agent-workspace.html)
 - [GitHub Pages、Cloudflare Pages 和 Workers 怎么选](https://www.fechuck.com/2026/static-hosting.html)
 - [AI 白板 —— 画自身架构图](https://www.fechuck.com/notes/2026-10-16-ai-whiteboard-test.html)
 - [Claude Code 游戏工作室](https://www.fechuck.com/notes/2026-10-15-claude-code-game-studios.html)
 - [搞了个 AI 涂鸦板](https://www.fechuck.com/notes/2026-10-15-react-whiteboard-ai.html)
-- [本地搭 Agent：如何在 LLM 适配层做可靠控制](https://www.fechuck.com/notes/2026-10-10-local-agent.html)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>每天从博客 RSS 自动更新 · [全部文章 →](https://www.fechuck.com)</sub>
